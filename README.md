@@ -8,6 +8,8 @@ This specialization incorporates hands-on labs using our Qwiklabs platform.
 
 These hands on components will let you apply the skills you learn in the video lectures. Projects will incorporate topics such as Google Cloud Platform products, which are used and configured within Qwiklabs. You can expect to gain practical hands-on experience with the concepts explained throughout the modules.
 
+## Specialization - 4 course series
+
 - ### Production Machine Learning Systems
 In this course, we dive into the components and best practices of building high-performing ML systems in production environments. 
 We cover some of the most common considerations behind building these systems, e.g. static training, dynamic training, static inference, dynamic inference, distributed TensorFlow, and TPUs. 
